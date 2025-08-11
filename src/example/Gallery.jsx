@@ -14,7 +14,6 @@ export default function Gallery() {
             <Profile />
             <Profile />
             <Profile />
-            <Profile />
         </section>
     );
 }
