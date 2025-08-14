@@ -4,6 +4,7 @@ import viteLogo from '/vite.svg'
 // import './App.css'
 import Profile from './example/Profile.jsx'
 import Gallery from './example/Gallery.jsx'
+import Avatar from './example/Avatar.jsx'
 
 function App() {
   // const [count, setCount] = useState(0)
@@ -11,7 +12,8 @@ function App() {
   return (
     <div>
       {/* <Profile /> */}
-      <Gallery />
+      {/* <Gallery /> */}
+      <Avatar />
     </div>
 
 //     <>
