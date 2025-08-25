@@ -7,6 +7,7 @@ import Gallery from './example/Gallery.jsx'
 import Avatar from './example/Avatar.jsx'
 import TodoList from './example/TodoList.jsx'
 import TodoList2 from './example/TodoList2.jsx'
+import TodoList3 from './example/TodoList3.jsx'
 
 function App() {
   // const [count, setCount] = useState(0)
@@ -17,7 +18,8 @@ function App() {
       {/* <Gallery /> */}
       {/* <Avatar /> */}
       {/* <TodoList /> */}
-      <TodoList2 />
+      {/* <TodoList2 /> */}
+      <TodoList3 />
     </div>
 
 //     <>
