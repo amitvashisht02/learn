@@ -8,6 +8,9 @@ import Avatar from './example/Avatar.jsx'
 import TodoList from './example/TodoList.jsx'
 import TodoList2 from './example/TodoList2.jsx'
 import TodoList3 from './example/TodoList3.jsx'
+import Profile2 from './example/Profile2.jsx'
+import Profile3 from './example/Profile3.jsx'
+import Profile4 from './example/Profile4.jsx'
 
 function App() {
   // const [count, setCount] = useState(0)
@@ -19,7 +22,10 @@ function App() {
       {/* <Avatar /> */}
       {/* <TodoList /> */}
       {/* <TodoList2 /> */}
-      <TodoList3 />
+      {/* <TodoList3 /> */}
+      {/* <Profile2 /> */}
+      {/* <Profile3 /> */}
+      <Profile4 />
     </div>
 
 //     <>
