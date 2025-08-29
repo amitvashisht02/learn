@@ -8,7 +8,7 @@ export default function Avatar3({ person, size }) {
         src={getImageUrl(person)}
         alt={person.name}
         width={size}
-        height={size}
+        height={size} 
         />
     );
 }
