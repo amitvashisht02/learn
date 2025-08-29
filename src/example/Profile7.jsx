@@ -19,6 +19,6 @@ export default function Profile7() {
                 imageId: 'YfeOqp2'
             }}
             />
-        </Card>
+        </Card> 
     );
 }

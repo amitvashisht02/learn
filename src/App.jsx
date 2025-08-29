@@ -27,7 +27,7 @@ function App() {
       {/* <Profile2 /> */}
       {/* <Profile3 /> */}
       {/* <Profile4 /> */}
-      <Profile7 />
+      <Profile7 /> 
     </div>
 
 //     <>
