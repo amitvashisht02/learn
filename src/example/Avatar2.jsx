@@ -1,3 +1,3 @@
-function Avatar({ person, size = 100}) {
+function Avatar2({ person, size = 100}) {
 
 }
