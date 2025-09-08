@@ -12,6 +12,7 @@ import Profile2 from './example/Profile2.jsx'
 import Profile3 from './example/Profile3.jsx'
 import Profile4 from './example/Profile4.jsx'
 import Profile7 from './example/Profile7.jsx'
+import PackingList from './example/PackingList.jsx'
 
 function App() {
   // const [count, setCount] = useState(0)
@@ -27,7 +28,8 @@ function App() {
       {/* <Profile2 /> */}
       {/* <Profile3 /> */}
       {/* <Profile4 /> */}
-      <Profile7 /> 
+      {/* <Profile7 />  */}
+      <PackingList />
     </div>
 
 //     <>
